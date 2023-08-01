@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviie-website-color/static/css/main.b8b362e6.css",
+    "main.js": "/moviie-website-color/static/js/main.952a7ffd.js",
+    "index.html": "/moviie-website-color/index.html",
+    "main.b8b362e6.css.map": "/moviie-website-color/static/css/main.b8b362e6.css.map",
+    "main.952a7ffd.js.map": "/moviie-website-color/static/js/main.952a7ffd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8b362e6.css",
+    "static/js/main.952a7ffd.js"
+  ]
+}
